@@ -113,12 +113,11 @@ Amazon EC2 Auto Scaling helps maintain application availability by automatically
 Allow SSH + Custom TCP (Port 8080) to enable application access.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Palak-10-gupta/VPC-Architecture-with-Public-and-Private-subnet-for-Production-Environment
-    project/main/assets/securitygroup.png" alt="Security Group Config" width="650"/>
+  <img src="https://raw.githubusercontent.com/Palak-10-gupta/VPC-Architecture-with-Public-and-Private-subnet-for-Production-Environment-project/main/assets/img4.png" alt="Security Group Ports" width="650"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Palak-10-gupta/VPC-Architecture-with-Public-and-Private-subnet-for-Production-Environment-project/main/assets/img4.png" alt="Security Group Ports" width="650"/>
+  <img src="assets/securitygroup.png" alt="Security Group Config" width="650"/>
 </p>
 
 ---
@@ -175,6 +174,7 @@ ssh -i key.pem ec2-user@<bastion-public-ip>
 # From Bastion, SSH into Private Instance
 ssh -i key.pem ec2-user@<private-ip>
 
+```
 ---
 
 ## ⚡ Step 4: Load Balancer: Traffic Management and High Availability
