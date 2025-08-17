@@ -26,7 +26,7 @@ The setup follows **AWS Well-Architected Framework** principles, ensuring:
 ---
 
 ## 📊 Architecture Diagram
-![Architecture Diagram](https://raw.githubusercontent.com/Palak-10-gupta/VPC-Architecture-with-Public-and-Private-subnet-for-Production-Environment-project/main/assets/architecture.336532010-e6b4e573-d8a9-42f0-90bc-90c7497d4aa1.png)
+![Architecture Diagram](https://github.com/Palak-10-gupta/VPC-Architecture-with-Public-and-Private-subnet-for-Production-Environment-project/main/assets/architecture.336532010-e6b4e573-d8a9-42f0-90bc-90c7497d4aa1.png)
 
 
 ---
