@@ -1,5 +1,4 @@
-# VPC-Architecture-with-Public-and-Private-subnet-for-Production-Environment-project
-# 🌐 VPC Architecture with Public and Private Subnets
+# 🌐 VPC-Architecture-with-Public-and-Private-subnet-for-Production-Environment
 
 ## 📌 Introduction
 This project demonstrates how to design and deploy a secure, scalable, and highly available cloud infrastructure on **AWS** using a **Virtual Private Cloud (VPC)**.
@@ -231,3 +230,11 @@ In this project, the **application servers are deployed in private subnets** to 
 - No direct internet exposure for private servers ensures a **production-ready architecture**.
 
 ---
+
+# 👨‍💻 Author
+**Palak Gupta**  
+💼 GitHub: [@Palak-10-gupta](https://github.com/Palak-10-gupta)
+
+---
+
+⭐ If you like this project, don’t forget to give it a **star** on GitHub! ⭐
